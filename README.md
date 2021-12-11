@@ -4,8 +4,6 @@
 <hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivkumar5" alt="shivkumar5" /> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majesty594&layout=compact&hide=html" alt="majesty raj" /> 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majesty594&show_icons=true&count_private=true" alt="majesty raj" /></p>
 <!--
   
   
@@ -28,4 +26,3 @@ Here are some ideas to get you started:
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majesty594&layout=compact&hide=html" alt="majesty raj" /> </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majesty594&show_icons=true&count_private=true" alt="majesty raj" /></p>
-<br>r">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majesty594&show_icons=true&count_private=true" alt="majesty raj" /></p>
