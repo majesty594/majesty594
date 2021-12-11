@@ -1,8 +1,7 @@
 ### Hi there 👋
-<hr/>
 
-<hr/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivkumar5" alt="shivkumar5" /> </p>
+
+
 
 <!--
   
