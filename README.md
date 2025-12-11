@@ -1,3 +1,50 @@
+# 👋 Hi, I'm Vishnu (Majesty)
+
+I am an aspiring **AI/ML Engineer** specialising in 
+- Machine Learning  
+- NLP (BERT, GPT, LLMs)  
+- Forecasting  
+- Recommender Systems  
+- MLOps (Docker, Airflow, CI/CD)
+
+💡 I love building production-grade ML systems that actually solve real problems.
+
+---
+
+## 🚀 Featured ML Projects (In Progress)
+- 🔮 Forecasting: SARIMA vs Prophet vs DeepAR (Time Series)
+- 🧠 NLP: BERT fine-tuning + GPT-based summarizer
+- 🎯 Recommender System: Two-Tower Neural Model + SVD
+- ⚙️ MLOps Project: Airflow Pipelines + Docker + CI/CD
+- ⚠️ Anomaly Detection: Isolation Forest + LOF + SHAP
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python, SQL  
+**ML:** Sklearn, PyTorch, TensorFlow, StatsModels  
+**NLP:** BERT, Huggingface, Transformers  
+**MLOps:** Docker, Airflow, FastAPI, GitHub Actions  
+**Cloud:** AWS, GCP  
+**Data:** Pandas, NumPy, PySpark
+
+---
+
+## 📚 Writing About ML
+I write clean, beginner-friendly blog posts on:
+- ML Fundamentals  
+- LLMs  
+- Forecasting  
+- MLOps  
+
+---
+
+## 📫 Connect  
+- LinkedIn: <Your LinkedIn>  
+- Email: <Your Email>  
+
+---
+✨ *I’m actively building a world-class ML portfolio. Follow along!*  
 # 💫 About Me:
 🔭 I’m currently working on Data Science Domain<br>👯 I’m looking to collaborate on Automotive Data Science Projects<br>
 
